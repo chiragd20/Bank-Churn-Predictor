@@ -1,4 +1,4 @@
-# ML_ANN
+# Bank_Churn_Predictor
 
 **Objective:**
 Developed an Artificial Neural Network (ANN) model to predict customer churn using TensorFlow.
